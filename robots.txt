@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://idojeeve.github.io/sitemap_index.idojeeve
